@@ -2,7 +2,7 @@
 title: "Climbing the Global Cyber Vandalism Ladder in Westminster, Crypto Airdrops, and the Shady Underworld of Monetized Link Shortening Services"
 date: 2019-03-02T22:09:27-05:00
 draft: false
-tags: ["classic yarn"]
+tags: ["classic yarn","vandalism", "best of"]
 categories: ["shodan stories"]
 ---
 

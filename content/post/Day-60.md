@@ -2,7 +2,7 @@
 title: "The Private Prison Industrial Complex in Houston, Encartele Phones, Bonkers Advertisements, Inmate Surveillance, and Predatory Business Models"
 date: 2019-03-04T17:20:55-05:00
 draft: false
-tags: ["classic yarn"]
+tags: ["classic yarn","best of"]
 categories: ["shodan stories"]
 ---
 

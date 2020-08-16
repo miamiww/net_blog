@@ -2,7 +2,7 @@
 title: "Minitel"
 date: 2019-02-09T21:50:14-05:00
 draft: false
-tags: ["classic yarn"]
+tags: ["classic yarn","best of"]
 categories: ["shodan stories"]
 ---
 

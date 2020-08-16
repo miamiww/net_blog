@@ -2,7 +2,7 @@
 title: "Managing Apartment Security in Bangkok, IoT Defacements, and My Wifi Video Door Lock Makes Me More Safe Because It Lets Anyone Remotely Monitor My Home For Intruders"
 date: 2019-03-27T11:26:26-04:00
 draft: false
-tags: ["classic yarn"]
+tags: ["classic yarn","vandalism"]
 categories: ["shodan stories"]
 ---
 

@@ -2,7 +2,7 @@
 title: "The Littleborough Losers in Ramsgate, Having a Few Pints with the Lads, Fantasy Football Since 1995, Rick's Footy Challenge, and Wayne Rooney the True Ledge"
 date: 2019-02-24T23:48:26-08:00
 draft: false
-tags: ["classic yarn"]
+tags: ["classic yarn", "best of"]
 categories: ["shodan stories"]
 ---
 

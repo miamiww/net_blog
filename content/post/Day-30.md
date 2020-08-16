@@ -2,7 +2,7 @@
 title: "Automating Buildings in Copenhagen, the BAS SCADA Industry, Expandable Controllers, Cloriūs, KeRo, and O&J CTS A/S"
 date: 2019-02-02T22:37:32-05:00
 draft: false
-tags: ["classic yarn"]
+tags: ["classic yarn","scada"]
 categories: ["shodan stories"]
 ---
 
