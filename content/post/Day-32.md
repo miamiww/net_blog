@@ -2,7 +2,7 @@
 title: "Red Lion Industrial Controls in a Remote US Location, Riding the XetaWave, the AirLink ACEmanager, Tank Batteries, and the Stack Overflow Answer that Launched 6000 Redirects"
 date: 2019-02-04T17:27:29-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

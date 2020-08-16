@@ -2,7 +2,7 @@
 title: "Logging In In Koshigaya"
 date: 2019-04-02T23:44:25-04:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

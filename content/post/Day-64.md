@@ -2,7 +2,7 @@
 title: "Pro DJing in Antofagasta, Iomega NAS, and a Torrenting Minimalist"
 date: 2019-03-08T22:55:18-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

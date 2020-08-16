@@ -2,7 +2,7 @@
 title: "Playing Minecraft in Minnesota, Wasting Time with Catholic Teens"
 date: 2019-01-06T16:59:25-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

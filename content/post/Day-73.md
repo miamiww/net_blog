@@ -2,7 +2,7 @@
 title: "Automating Application Testing in Tel-Aviv, Jenkins, and Extremely Secure Devops"
 date: 2019-03-17T23:06:33-04:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

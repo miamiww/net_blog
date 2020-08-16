@@ -2,7 +2,7 @@
 title: "POWERful Plates in Fargo, Digital Signage, Unsecured Pis, and the Cold Cold Midwest Winter"
 date: 2019-01-24T21:45:24-05:00
 draft: false
-tags: []
+tags: ["classic yarn","iot shenanigans"]
 categories: ["shodan stories"]
 ---
 

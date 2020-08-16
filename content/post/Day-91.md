@@ -2,7 +2,7 @@
 title: "Collecting Workforce Biometrics in Mumbai, GPS Tagging My Employee Assets to Ensure Payroll Compliance, and Using Watermarked Stock Footage in Your Deployed Product Means Never Having To Say You're Sorry"
 date: 2019-04-10T22:51:25-04:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

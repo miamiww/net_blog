@@ -2,7 +2,7 @@
 title: "Solving Crimes and Protecting the Innocent in Paris"
 date: 2019-02-21T22:23:45-08:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

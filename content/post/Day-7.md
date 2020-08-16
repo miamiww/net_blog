@@ -2,7 +2,7 @@
 title: "Scammers in the Czech Republic, Cyrillic TLDs, and Hacking the Hackers"
 date: 2019-01-10T15:19:23-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

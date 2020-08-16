@@ -2,7 +2,7 @@
 title: "A Clothing Store in Moscow"
 date: 2019-02-10T12:11:44-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

@@ -2,7 +2,7 @@
 title: "Pondering a Loading Bay in Saint Petersburg"
 date: 2019-02-22T10:36:25-08:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

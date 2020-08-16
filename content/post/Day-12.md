@@ -2,7 +2,7 @@
 title: "Influencer to Brand Marketplace and Authentic Content Platform in St Louis, Damaging My Klout Score via Unauthorized API Calls, GraphQL IDEs, and the Center of the Internet"
 date: 2019-01-15T20:20:27-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

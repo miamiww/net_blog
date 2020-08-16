@@ -2,7 +2,7 @@
 title: "The Ol' Unix Nostalgia in the Netherlands, Fortune | Cowsay, and the Mysteries of Tranquility Quidor"
 date: 2019-03-23T12:52:22-04:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

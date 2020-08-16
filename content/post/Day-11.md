@@ -2,7 +2,7 @@
 title: "Machine Learning in Beijing and the Mysteries of 126 and 163"
 date: 2019-01-14T14:27:56-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 Today I went looking for [MongoDB](https://www.mongodb.com/) databases. I used MongoDB back in Shawn Van Every's servers class, I remember feeling pretty cool using a [NoSQL database](https://en.wikipedia.org/wiki/NoSQL). Shodan indicated that MongoDB tends to work off of port 27017 so that's where I started looking.

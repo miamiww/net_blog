@@ -2,7 +2,7 @@
 title: "Blue_7 in Beijing, GGGG, Evading Government Censures, Server Login Lists, Abandoned Blogs, Shadow Socks, Telegram Chat Rooms, and the Mystery of Using URLs as Passwords"
 date: 2019-02-12T17:20:20-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

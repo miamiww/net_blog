@@ -2,7 +2,7 @@
 title: "Microwave Access in Ghaziabad"
 date: 2019-03-31T12:54:32-04:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

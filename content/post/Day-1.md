@@ -3,7 +3,7 @@ title: "An Open VNC Server"
 date: 2019-01-04T11:06:35-05:00
 draft: false
 description: ""
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

@@ -2,7 +2,7 @@
 title: "Raising Cow Fighting Squid in Yilan"
 date: 2019-01-25T22:33:00-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

@@ -2,7 +2,7 @@
 title: "Compressing Natural Gas in West Virginia"
 date: 2019-03-22T20:17:53-04:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

@@ -2,7 +2,7 @@
 title: "Joann Fabric's Sinister Plot"
 date: 2019-01-05T15:46:52-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

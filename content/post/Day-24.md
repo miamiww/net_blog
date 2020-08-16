@@ -2,7 +2,7 @@
 title: "Watching the News in Cheongju, IPTime Routers, Synology Yet Again, and TVheadend"
 date: 2019-01-27T17:16:00-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

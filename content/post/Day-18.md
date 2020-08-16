@@ -2,7 +2,7 @@
 title: "Defaced Server in Walnut, Hacking in a Nutshell, These Jokes Don't Write Themselves!"
 date: 2019-01-21T23:35:30-08:00
 draft: false
-tags: []
+tags: ["classic yarn","vandalism"]
 categories: ["shodan stories"]
 ---
 

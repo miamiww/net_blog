@@ -2,7 +2,7 @@
 title: "υηκηοωη ιδεηեτγ in France, Private Telephone Exchanges, Network Attached Storage, and Getting Lost in the Matrix"
 date: 2019-01-23T12:45:18-08:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

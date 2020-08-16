@@ -2,7 +2,7 @@
 title: "Dealing with the Devil in Quebec, Repetitive Jetpack Death, Dr. Cheetos' Pain Chamber, Ludum Dare 43, Unity Web GL, and What Happened to Dave?"
 date: 2019-02-16T20:51:47-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

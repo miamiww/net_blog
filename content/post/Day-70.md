@@ -2,7 +2,7 @@
 title: "Engineering Consulting in Tangier, WampServer, CORS the Silent Killer, and You'll Always Have a Job with PHP"
 date: 2019-03-14T22:18:19-04:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

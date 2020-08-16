@@ -2,7 +2,7 @@
 title: "Propaganda in Pyongyang"
 date: 2019-02-05T20:55:59-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

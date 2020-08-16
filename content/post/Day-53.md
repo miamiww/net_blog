@@ -2,7 +2,7 @@
 title: "Just an IoT Highway Sign in Los Angeles"
 date: 2019-02-25T19:46:10-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

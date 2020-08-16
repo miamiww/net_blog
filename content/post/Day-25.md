@@ -2,7 +2,7 @@
 title: "Helping Strangers in Singapore"
 date: 2019-01-28T16:34:22-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

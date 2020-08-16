@@ -2,7 +2,7 @@
 title: "A Construction Site in Northern Illinois"
 date: 2019-03-12T23:32:29-04:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

@@ -2,7 +2,7 @@
 title: "Mining for Innovation in Abu Dhabi, Trapped in the Multiverse of Project Validation, Haunted by the Lightbulb of Ideas, Tasked with an Eternity of Teamwork Communication Adjustment"
 date: 2019-02-13T23:19:12-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

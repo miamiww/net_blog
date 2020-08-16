@@ -2,7 +2,7 @@
 title: "Shodaning Myself, Ye Olde Telnet Service, and the Weather Underground"
 date: 2019-03-01T17:30:12-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

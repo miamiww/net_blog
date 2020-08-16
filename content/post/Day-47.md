@@ -2,7 +2,7 @@
 title: "Looking at Feet in Tokyo"
 date: 2019-02-19T23:37:04-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

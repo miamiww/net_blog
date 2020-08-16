@@ -2,7 +2,7 @@
 title: "Keeping Abreast of the Hyperlocal Weather in Uppsala, Yawcam, and Multinational Pest Control"
 date: 2019-02-23T07:29:11-08:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

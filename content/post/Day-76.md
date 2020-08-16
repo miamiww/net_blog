@@ -2,7 +2,7 @@
 title: "Conference Calls in Noida"
 date: 2019-03-21T16:17:26-04:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

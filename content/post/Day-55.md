@@ -2,7 +2,7 @@
 title: "Dancing with Skunks and Annotating Goats in Fremont, Ornamental Hermits, Gopherspace, and the Mysteries of Time"
 date: 2019-02-27T13:39:11-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

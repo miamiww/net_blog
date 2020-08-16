@@ -2,7 +2,7 @@
 title: "Securities Trading in Hong Kong, Ghidra vs IDA Pro, and the Ever Popular Insecure Java Debugger"
 date: 2019-03-07T21:20:35-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

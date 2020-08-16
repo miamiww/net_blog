@@ -2,7 +2,7 @@
 title: "Air Conditioning in Aiken, or the Crane by Trane Has 22,000 Linear Feet of Pre-insulated Pipe"
 date: 2019-04-07T00:30:08-04:00
 draft: true
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

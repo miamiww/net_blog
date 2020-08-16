@@ -2,7 +2,7 @@
 title: "Monitoring Modbus Logic Controllers in Wroclaw"
 date: 2019-03-31T20:28:55-04:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

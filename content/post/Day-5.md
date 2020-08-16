@@ -2,7 +2,7 @@
 title: "Organic Chemistry in Poland, Ecotoxicology, and the Dangers of Static Electricity"
 date: 2019-01-08T13:33:49-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

@@ -2,7 +2,7 @@
 title: "Library Kiosks in Duchesne, Session Management Solutions, and True Friendship"
 date: 2019-02-07T00:16:01-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

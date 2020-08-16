@@ -2,7 +2,7 @@
 title: "Getting Connected in Vietnam, GPON ONT, VNPT, and the Mysteries of DNS Addressing"
 date: 2019-02-18T10:37:03-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

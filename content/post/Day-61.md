@@ -2,7 +2,7 @@
 title: "Printing Skulls in Springfield, Tautulli Plex, and OctoPrint"
 date: 2019-03-05T14:00:02-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

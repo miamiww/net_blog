@@ -2,7 +2,7 @@
 title: "Controlling the Climate in Constanta, Legacy Browser Extensions, Windows Virtual Machines, Reliable Old Internet Explorer, and Java Applet Deep Hell"
 date: 2019-03-25T22:10:13-04:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

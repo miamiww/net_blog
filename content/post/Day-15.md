@@ -2,7 +2,7 @@
 title: "Deftly Avoiding Turning On A Stranger's Lights in Bologna, the Commercial Level ESP8266, Getting Too Close with WiGLE, and What's the Deal with Home Automation Anyway?"
 date: 2019-01-18T11:01:04-08:00
 draft: false
-tags: []
+tags: ["classic yarn","iot shenanigans"]
 categories: ["shodan stories"]
 ---
 

@@ -2,7 +2,7 @@
 title: "Youth Volunteering in Guri, ePrinting, Jetdirect, Requiem for a Hewlett Packard, the State of Civil Society, and Hand Massages for the Elderly"
 date: 2019-02-03T21:23:52-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

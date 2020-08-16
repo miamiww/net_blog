@@ -2,7 +2,7 @@
 title: "Air Conditioning and Air Traffic Control in Yokohoma"
 date: 2019-01-09T18:19:08-05:00
 draft: false
-tags: []
+tags: ["classic yarn","best of"]
 categories: ["shodan stories"]
 ---
 

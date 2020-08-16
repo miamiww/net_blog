@@ -2,7 +2,7 @@
 title: "Transfering Files in Moscow, Macommet, and Open Source Mirrors"
 date: 2019-03-15T22:13:53-04:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

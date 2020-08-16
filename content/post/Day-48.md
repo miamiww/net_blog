@@ -2,7 +2,7 @@
 title: "Processing Wood Products in Piet Retief, Dahua Botnets, MikroTik Botnets, and Particle Board"
 date: 2019-02-20T15:47:18-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

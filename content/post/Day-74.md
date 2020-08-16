@@ -2,7 +2,7 @@
 title: "Charging My Car in Heraklion"
 date: 2019-03-19T10:45:46-04:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

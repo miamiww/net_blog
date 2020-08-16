@@ -2,7 +2,7 @@
 title: "Reading License Plates in Pretoria, Raspberry Pi Servers, and Storing Passwords in Plaintext"
 date: 2019-04-09T00:22:39-04:00
 draft: true
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

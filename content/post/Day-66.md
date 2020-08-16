@@ -2,7 +2,7 @@
 title: "Making Cement in Tuban"
 date: 2019-03-10T16:17:35-04:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

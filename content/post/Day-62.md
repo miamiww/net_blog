@@ -2,7 +2,7 @@
 title: "Night at the Kino in Winnenden"
 date: 2019-03-06T21:17:39-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

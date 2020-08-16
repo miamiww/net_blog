@@ -2,7 +2,7 @@
 title: "A Serbian Highway"
 date: 2019-01-19T15:34:20-08:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

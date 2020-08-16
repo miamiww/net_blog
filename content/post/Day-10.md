@@ -2,7 +2,7 @@
 title: "Reading License Plates in Louisiana, the Bygone Days of Java Webapps, and Spying on Cops"
 date: 2019-01-13T20:08:21-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

@@ -2,7 +2,7 @@
 title: "More TV Torrenting in Toronto, Reckless API Key Exposure, Sonarr, Radarr, Jackett, Ombi, and Deluge"
 date: 2019-02-11T20:29:49-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

@@ -2,7 +2,7 @@
 title: "Buying Souvenirs in Bethlehem, Schneider Electric spaceLYnk, EXIF Data, and Does It Count as a Pilgrimage If You Are Just Remotely Opening and Closing Gates via a Store's Insecure SCADA System?"
 date: 2019-02-28T12:01:30-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

@@ -2,7 +2,7 @@
 title: "My Wifi Enabled Smart Projector Helped Me Rekindle My Marriage's Lost Spark in Beijing"
 date: 2019-03-09T23:45:45-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

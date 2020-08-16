@@ -2,7 +2,7 @@
 title: "An ATM in Perm, Russia and Just How Much Market Capture Does Windows 2000 Have Anyway?"
 date: 2019-01-20T12:43:31-08:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

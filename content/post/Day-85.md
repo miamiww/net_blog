@@ -2,7 +2,7 @@
 title: "Hosting on Raspberry Pis in Arnstadt, CNAME Record Trails, and 'Home' Automation"
 date: 2019-04-04T21:43:37-04:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

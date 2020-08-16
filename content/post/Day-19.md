@@ -2,7 +2,7 @@
 title: "Never Trust Me With The WiFi"
 date: 2019-01-22T22:59:41-08:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

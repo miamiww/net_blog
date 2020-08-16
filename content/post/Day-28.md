@@ -2,7 +2,7 @@
 title: "Joining the Electric World in Darmstadt"
 date: 2019-01-31T17:12:07-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

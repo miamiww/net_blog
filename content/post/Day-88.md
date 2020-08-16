@@ -2,7 +2,7 @@
 title: "The Internet Feels Empty in Caoya"
 date: 2019-04-08T00:14:00-04:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

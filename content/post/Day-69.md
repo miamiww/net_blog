@@ -2,7 +2,7 @@
 title: "False Promise of the Amazon Echo in Krakow, More Smart Home Automation, and the HA Bridge"
 date: 2019-03-13T22:55:27-04:00
 draft: true
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

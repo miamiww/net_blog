@@ -2,7 +2,7 @@
 title: "Poking the BusyBox in Camboriu"
 date: 2019-04-12T22:22:42-04:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

@@ -2,7 +2,7 @@
 title: "Graphing Databases in Sydney"
 date: 2019-04-05T18:04:01-04:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

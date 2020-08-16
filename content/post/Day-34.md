@@ -2,7 +2,7 @@
 title: "Listening to La Merde in Bonneuil-sur-marne, Logitech Servers, the Squeezebox, and Becoming the Ghost in the Wifi Connected Radio"
 date: 2019-02-06T01:21:02-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

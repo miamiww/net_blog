@@ -2,7 +2,7 @@
 title: "Super Mediocrity in Albuquerque, Wifi Garage Doors, WebIOPi, and the Great Xylophone Saga of 2015"
 date: 2019-01-26T11:14:58-05:00
 draft: false
-tags: []
+tags: ["classic yarn","iot shenanigans","best of"]
 categories: ["shodan stories"]
 ---
 

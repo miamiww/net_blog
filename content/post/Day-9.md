@@ -2,7 +2,7 @@
 title: "I Got Rickrolled by an Irrigation System in Los Vegas"
 date: 2019-01-12T20:30:45-05:00
 draft: false
-tags: []
+tags: ["classic yarn","best of","IoT shenanigans"]
 categories: ["shodan stories"]
 ---
 

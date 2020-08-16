@@ -2,7 +2,7 @@
 title: "Multicasting in Siberia, UDP Packet Pixies, and Free Civ"
 date: 2019-01-29T22:22:18-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

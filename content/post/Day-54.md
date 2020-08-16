@@ -2,7 +2,7 @@
 title: "Pumping Your Own in Saint-Denis"
 date: 2019-02-26T19:43:36-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

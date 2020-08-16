@@ -2,7 +2,7 @@
 title: "A Connoisseur of Sorts in Shenzhen, Western Digital 2 Go, and Rest In Peace TwonkyMedia"
 date: 2019-01-30T00:04:46-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

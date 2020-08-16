@@ -2,7 +2,7 @@
 title: "Taking Care of Feet in Buenos Aires, Good Old Apache Webservers, and the Forgotten History of the Directory Index"
 date: 2019-03-11T22:41:52-04:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

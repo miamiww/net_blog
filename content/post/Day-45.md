@@ -2,7 +2,7 @@
 title: "Filferro in Empuriabrava, .NET Games, eMule, Pokémon Armageddon, and the Joy Only Known to Those Who Keep Their Campsites Cow Free"
 date: 2019-02-17T17:56:03-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

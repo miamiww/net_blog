@@ -2,7 +2,7 @@
 title: "Powerful Routing in Karachi"
 date: 2019-03-20T20:22:27-04:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 

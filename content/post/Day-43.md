@@ -2,7 +2,7 @@
 title: "Jamming Out in Centerville, Bundesliga Fans, and the Discreet Charm of the Presentation Page"
 date: 2019-02-15T21:50:06-05:00
 draft: false
-tags: []
+tags: ["classic yarn"]
 categories: ["shodan stories"]
 ---
 
