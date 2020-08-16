@@ -7,12 +7,12 @@ theme = "dream.386"
 
 [params]
     # The name to display as main title in the home page
-    mainpagetitle = "One Way Long Distance Friendship"
+    mainpagetitle = "One Way Long Distance Friendship: Stories from an Internet Lurker"
 
     # The subtitle to display under the title in the home page
     mainpagesubtitle = "Tales of the Net is a website about the Internet. It is dedicated to exploring everything humans do online, by finding small stories of the cyberculture, infrastructure, and protocols that make up the contemporary network." 
     # The description of your website. It will be displayed in the home page
-    mainpagedesc = ""
+    # mainpagedesc = ""
 
     # The name to display in the copyright section in the footer
     copyrightname = "Alden Rivendale Joones"
