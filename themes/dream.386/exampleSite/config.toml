@@ -1,32 +1,35 @@
-baseURL = "https://talesofthe.net"
-languageCode = "en-us"
-title = "One Way Long Distance Friendship"
-DefaultContentLanguage = "en"
-
-theme = "dream.386"
+baseURL = "https://example.com"
+title = "HUGO.386"
+languageCode = "en"
+DefaultContentLanguage = "en" # Change this to change the site's language
+theme = "hugo.386"
+preserveTaxonomyNames = true
 
 [params]
     # The name to display as main title in the home page
-    mainpagetitle = "One Way Long Distance Friendship"
+    mainpagetitle = "HUGO.386"
 
     # The subtitle to display under the title in the home page
-    mainpagesubtitle = "Stories of an Internet Lurker" 
+    mainpagesubtitle = "Welcome to the early 90s!" 
 
     # The description of your website. It will be displayed in the home page
-#    mainpagedesc = "Small Internet Stories"
+    mainpagedesc = "This theme is the Hugo port of the BOOTSTRA.386 theme for a cool retro look on your blog. Check the links below to access the posts."
 
     # The name to display in the copyright section in the footer
-    copyrightname = "Alden Rivendale Joones"
+    copyrightname = "JM Fergeau"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
-    copyrighturl = "https://alden.website"
+    copyrighturl = "http://jmf-portfolio.netlify.com"
 
     # Show the "built on Hugo" disclaimer
-    showhugo = false
+    showhugo = true
 
     # Urls for social networks
-    twitter = "https://twitter.com/cybergirlboss"
-    github = "https://github.com/miamiww/"
+    facebook = "https://facebook.com"
+    twitter = "https://twitter.com"
+    linkedin = "https://linkedin.com"
+    github = "https://github.com"
+    gitlab = "https://gitlab.com"
 
     # Enables or disables the loading animations. false activates them. Default is false.
     loadfastload = false
@@ -38,16 +41,16 @@ theme = "dream.386"
     loadonepass = false
 
 [params.copyright]
-    name = "Alden Rivendale Jones"
+    name = "JM Fergeau"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
-    url = "https://alden.website"
+    url = "http://jmf-portfolio.netlify.com"
 
     # Text to go before copyright information
-    # prefix = "[hugo.386 theme by Max le Fou](https://gitlab.com/maxlefou/hugo.386)"
+    prefix = "[hugo.386 theme by Max le Fou](https://gitlab.com/maxlefou/hugo.386)"
 
     # Text to go between copyright and hugo disclaimer (if enabled)
-    suffix = "Lovingly and Eternally Under Construction"
+    suffix = "Example site"
 
 [menu]
   # This displays buttons in the navbar to access your contents
@@ -60,7 +63,7 @@ theme = "dream.386"
   [[menu.main]]
     identifier = "posts"
     name = "All posts"
-    url = "/posts/"       # The path can lead to a content folder too.
+    url = "/post/"       # The path can lead to a content folder too.
     weight = 20
 
 [taxonomies]
