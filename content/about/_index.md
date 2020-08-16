@@ -8,4 +8,4 @@ What's actually going on on the Internet? The world's biggest network can appear
 
 
 
-Website theme adapted from [hugo.386 theme by Max le Fou](https://gitlab.com/maxlefou/hugo.386). Special thanks to all my friends.
+Website theme adapted from [hugo.386 theme by Max le Fou](https://gitlab.com/maxlefou/hugo.386). 
