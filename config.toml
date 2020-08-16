@@ -13,7 +13,7 @@ theme = "dream.386"
     mainpagesubtitle = "Stories from an Internet Lurker" 
 
     # The description of your website. It will be displayed in the home page
-    #mainpagedesc = "Small Internet Stories"
+    mainpagedesc = "What's actually going on on the Internet?"
 
     # The name to display in the copyright section in the footer
     copyrightname = "Alden Rivendale Joones"
