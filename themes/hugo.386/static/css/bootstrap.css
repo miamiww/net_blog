@@ -650,8 +650,8 @@ a:focus {
 .container-fluid:after {
   clear: both;
 }
-/* 
-img {
+
+/* img {
   -webkit-filter: contrast(800%);
      -moz-filter: contrast(1000%);
       -ms-filter: contrast(800%);
