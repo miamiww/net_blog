@@ -10,7 +10,7 @@ theme = "dream.386"
     mainpagetitle = "One Way Long Distance Friendship"
 
     # The subtitle to display under the title in the home page
-    mainpagesubtitle = "Stories of an Internet Lurker" 
+    mainpagesubtitle = "These are the stories of an Internet lurker." 
 
     # The description of your website. It will be displayed in the home page
 #    mainpagedesc = "Small Internet Stories"
