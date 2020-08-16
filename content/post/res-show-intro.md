@@ -1,7 +1,7 @@
 ---
 title: "Residents' Show Intro"
 date: 2020-08-16T15:55:09-04:00
-draft: false
+draft: true
 description: "Welcome to Tales of the Net!"
 tags: []
 categories: ["non-tale"]
