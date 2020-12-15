@@ -2,6 +2,9 @@
 title: "Intro"
 date: 2020-08-15T15:56:05-05:00
 draft: false
+description: "Welcome to Tales of the Net!"
+tags: []
+categories: []
 ---
 
 ![The Pink Pill: what if the Internet rabbit hole lead to a politics of compassion and openness?](/images/Misc/pill.gif)
