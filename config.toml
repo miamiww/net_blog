@@ -15,10 +15,10 @@ theme = "dream.386"
     # mainpagedesc = ""
 
     # The name to display in the copyright section in the footer
-    copyrightname = "Alden Rivendale Joones"
+    copyrightname = "Alden Rivendale Jones"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
-    copyrighturl = "https://alden.website"
+    copyrighturl = "http://alden.website"
 
     # Show the "built on Hugo" disclaimer
     showhugo = false
@@ -40,7 +40,7 @@ theme = "dream.386"
     name = "Alden Rivendale Jones"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
-    url = "https://alden.website"
+    url = "http://alden.website"
 
     # Text to go before copyright information
     # prefix = "[hugo.386 theme by Max le Fou](https://gitlab.com/maxlefou/hugo.386)"
@@ -57,10 +57,16 @@ theme = "dream.386"
     weight = 10          # A number to order the buttons in the navbar
 
   [[menu.main]]
+    identifier = "adventure" # An unique identifier for the button
+    name = "Adventure"       # A display name for the button
+    url = "/adventure/"      # The path to the content. It can lead to a single page (like here)
+    weight = 20          # A number to order the buttons in the navbar
+
+  [[menu.main]]
     identifier = "posts"
     name = "All posts"
     url = "/post/"       # The path can lead to a content folder too.
-    weight = 20
+    weight = 30
 
 [taxonomies]
 category = "categories"
