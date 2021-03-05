@@ -5,4 +5,4 @@ draft: false
 ---
 
 ![The Pink Pill: what if the Internet rabbit hole lead to a politics of compassion and openness?](/images/Misc/pill.gif)
-going live march 8th
+going live march 8th, 2021
