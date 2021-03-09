@@ -34,6 +34,8 @@ draft: false
 <p style="color: white;">Currently the only region open for exploration is the Cyberswamp, an archive of the first cyberfeminist movement spanning ~1991-2003. 
 The current win state is successfully speaking to the oracle. Follow their instructions for your prize.</p>
 
-<p style="color: white;">I am actively soliciting feedback. Let me know what you think, if you get stuck, or if you know of any grants that could help me keep working on Oldernet Adventure by emailing me: </p>
+<p style="color: white;">Note that there is some challenging material that may not be suitable for children. It is possible to complete on a phone but best experienced on a desktop.</p>
 
-alden@alden.website
+<p style="color: white;">I am actively soliciting feedback! Let me know what you think, if you get stuck, or if you know of any grants that could help me keep working on Oldernet Adventure by emailing me: </p>
+
+#### alden@alden.website
