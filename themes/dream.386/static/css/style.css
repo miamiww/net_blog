@@ -9,3 +9,9 @@ body {
 h2 {
     white-space: normal;
 }
+
+@font-face {
+	font-family: "Kardust Bold Expanded";
+	src: url("/fonts/KardustBoldExpanded/font.woff2") format("woff2"),
+		url("/fonts/KardustBoldExpanded/font.woff") format("woff");
+}

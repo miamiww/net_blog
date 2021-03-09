@@ -99,3 +99,6 @@ tag = "tags"
 
   [services.twitter]
     disableInlineCSS = true
+
+[markup.goldmark.renderer]
+unsafe = true
