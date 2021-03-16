@@ -41,5 +41,5 @@ The current win state is successfully speaking to the oracle. Follow their instr
 #### alden@alden.website
 
 
-<p style="color: white; padding-top: 20px;">And if you enjoyed this and want updates on when the next sections are open, <a href="https://tinyletter.com/alden-rivendale-jones" target="_blank">join my newsletter</a>.</p>
+<p style="color: white; padding-top: 20px;">And if you enjoyed this and want updates on when the next regions are open, <a href="https://tinyletter.com/alden-rivendale-jones" target="_blank">join my newsletter</a>.</p>
 
