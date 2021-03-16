@@ -39,3 +39,7 @@ The current win state is successfully speaking to the oracle. Follow their instr
 <p style="color: white;">I am actively soliciting feedback! Let me know what you think, if you get stuck, or if you know of any grants that could help me keep working on Oldernet Adventure by emailing me: </p>
 
 #### alden@alden.website
+
+
+<p style="color: white; padding-top: 20px;">And if you enjoyed this and want updates on when the next sections are open, <a href="https://tinyletter.com/alden-rivendale-jones" target="_blank">join my newsletter</a>.</p>
+
