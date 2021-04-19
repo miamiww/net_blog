@@ -40,7 +40,7 @@ The current win state is successfully speaking to the oracle. Follow their instr
 
 [Feedback Form](https://forms.gle/owPtnkwckpfjwhQG7)
 
-Or if you have more to say, email me:
+<p style="color: white;">Or if you have more to say, email me:</p>
 
 #### alden@alden.website
 
