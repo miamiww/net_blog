@@ -15,10 +15,10 @@ theme = "dream.386"
     # mainpagedesc = ""
 
     # The name to display in the copyright section in the footer
-    copyrightname = "Alden Rivendale Jones"
+    copyrightname = "Thea Riven"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
-    copyrighturl = "http://alden.website"
+    copyrighturl = "http://thea.riven.ooo"
 
     # Show the "built on Hugo" disclaimer
     showhugo = false
@@ -37,10 +37,10 @@ theme = "dream.386"
     loadonepass = false
 
 [params.copyright]
-    name = "Alden Rivendale Jones"
+    name = "Thea Riven"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
-    url = "http://alden.website"
+    url = "http://thea.riven.ooo"
 
     # Text to go before copyright information
     # prefix = "[hugo.386 theme by Max le Fou](https://gitlab.com/maxlefou/hugo.386)"

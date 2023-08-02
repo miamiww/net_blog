@@ -42,8 +42,8 @@ The current win state is successfully speaking to the oracle. Follow their instr
 
 <p style="color: white;">Or if you have more to say, email me:</p>
 
-#### alden@alden.website
+#### thea@riven.ooo 
 
 
-<p style="color: white; padding-top: 20px;">And if you enjoyed this and want updates on when the next regions are open, <a href="https://tinyletter.com/alden-rivendale-jones" target="_blank">join my newsletter</a>.</p>
+<!-- <p style="color: white; padding-top: 20px;">And if you enjoyed this and want updates on when the next regions are open, <a href="https://tinyletter.com/alden-rivendale-jones" target="_blank">join my newsletter</a>.</p> -->
 
